@@ -63,7 +63,7 @@ npm start
 4. Open ```http://localhost:5173```
  (Vite) in your browser.
  
- ```
+ 
  
 ## 📫 Contact
 
@@ -74,6 +74,7 @@ npm start
 - **LinkedIn:** <span style="color:#0A66C2">Wiktor Ciepliński</span> [(link)](https://www.linkedin.com/in/wiktor-ciepli%C5%84ski-683b04327/)
 
 ## Made with ❤️ using React and Tailwind CSS
+
 
 
 
