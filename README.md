@@ -42,19 +42,25 @@ portfolio
 
 ## 📌 How to Run Locally
 
-```bash
+
 1. Clone the repository:
+```bash
 git clone https://github.com/Magnes77/portfolio.git
+```
 
 2. Install dependencies:
+```
 npm install
-
+```
 3. Run the development server:
+```
 npm run dev
+```
 # or
+```
 npm start
-
-4. Open http://localhost:5173
+```
+4. Open ``` http://localhost:5173 ```
  (Vite) in your browser.
  
  ```
@@ -68,6 +74,7 @@ npm start
 - **LinkedIn:** <span style="color:#0A66C2">Wiktor Ciepliński</span> [(link)](https://www.linkedin.com/in/wiktor-ciepli%C5%84ski-683b04327/)
 
 ## Made with ❤️ using React and Tailwind CSS
+
 
 
 
