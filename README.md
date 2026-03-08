@@ -63,17 +63,16 @@ npm start
 4. Open ```http://localhost:5173```
  (Vite) in your browser.
  
- 
- 
 ## 📫 Contact
 
-- **X (Twitter):** <span style="color:black">[@W_Magnescs](https://x.com/W_Magnescs)</span>
-- **Instagram:** <span style="color:#C13584">victor_cieplinski_</span> [(link)](https://www.instagram.com/victor_cieplinski_/)
-- **Facebook:** <span style="color:#1877F2">Wiktor Ciepliński</span> [(link)](https://www.facebook.com/Wiktor.Cieplinskii)
-- **GitHub:** <span style="color:#181717">magnes77</span> [(link)](https://github.com/magnes77)
-- **LinkedIn:** <span style="color:#0A66C2">Wiktor Ciepliński</span> [(link)](https://www.linkedin.com/in/wiktor-ciepli%C5%84ski-683b04327/)
+- 🐦 **X (Twitter):** [@W_Magnescs](https://x.com/W_Magnescs)
+- 📸 **Instagram:** [victor_cieplinski_](https://www.instagram.com/victor_cieplinski_/)
+- 📘 **Facebook:** [Wiktor Ciepliński](https://www.facebook.com/Wiktor.Cieplinskii)
+- 🐙 **GitHub:** [magnes77](https://github.com/magnes77)
+- 💼 **LinkedIn:** [Wiktor Ciepliński](https://www.linkedin.com/in/wiktor-ciepli%C5%84ski-683b04327/)
 
 ## Made with ❤️ using React and Tailwind CSS
+
 
 
 
