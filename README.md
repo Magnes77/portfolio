@@ -42,8 +42,8 @@ portfolio
 
 ## 📌 How to Run Locally
 
-1. Clone the repository:
 ```bash
+1. Clone the repository:
 git clone https://github.com/Magnes77/portfolio.git
 
 2. Install dependencies:
@@ -68,5 +68,6 @@ GitHub: https://github.com/magnes77
 LinkedIn: https://www.linkedin.com/in/wiktor-ciepli%C5%84ski-683b04327/)
 
 ## Made with ❤️ using React and Tailwind CSS
+
 
 
