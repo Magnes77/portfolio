@@ -58,16 +58,17 @@ npm start
  (Vite) in your browser.
  
  ```
-
- ## 📫 Contact
  
-X: https://x.com/W_Magnescs
-Instagram: https://www.instagram.com/victor_cieplinski_/
-Facebook: https://www.facebook.com/Wiktor.Cieplinskii
-GitHub: https://github.com/magnes77
-LinkedIn: https://www.linkedin.com/in/wiktor-ciepli%C5%84ski-683b04327/)
+## 📫 Contact
+
+- **X (Twitter):** [@W_Magnescs](https://x.com/W_Magnescs)
+- **Instagram:** [victor_cieplinski_](https://www.instagram.com/victor_cieplinski_/)
+- **Facebook:** [Wiktor Ciepliński](https://www.facebook.com/Wiktor.Cieplinskii)
+- **GitHub:** [magnes77](https://github.com/magnes77)
+- **LinkedIn:** [Wiktor Ciepliński](https://www.linkedin.com/in/wiktor-ciepli%C5%84ski-683b04327/)
 
 ## Made with ❤️ using React and Tailwind CSS
+
 
 
 
